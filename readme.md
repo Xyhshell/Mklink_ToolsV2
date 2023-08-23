@@ -1,4 +1,4 @@
-# Windowds Mklink Tools
+# Windows Mklink Tools
 
 ## 0.主要命令：
 > MKLINK [[/D] | [/H] | [/J]] Link Target
